@@ -12,6 +12,8 @@ To run it, from the folder containing the code files, run `lovec . <yourInputFil
 - The input file (an image) is necessary
 - The swatch size option is a number, and not necessary. Feel free to play around with it, but numbers < 3 are a bit broken, and numbers > 3 are really, really slow.
 
+Due to its interaction with files passed on the command line, no .love files can be made at this time.
+
 ## Algorithm and Terminology
 The pattern is the input image.
 
